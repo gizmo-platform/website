@@ -60,7 +60,7 @@ params:
     - title: Open Community
       icon: community
       text: Building things is more fun with friends
-      url: /
+      url: /contact
       buttonText: Join Us
   section2:
     title: Let's build something cool
