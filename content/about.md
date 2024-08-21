@@ -27,3 +27,7 @@ The Gizmo Team would like to thank GitHub user
 website theme, and for the many tallented artists at
 [Vecteezy](https://www.vecteezy.com/) for the vector graphics you see
 around our site.
+
+We'd also like to extend our thanks to the team at
+[Zulip](https://zulip.com) who run our messaging system free of
+charge.
