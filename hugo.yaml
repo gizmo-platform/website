@@ -28,7 +28,7 @@ params:
     title: Design. Build. Run.
     subtitle: Building robots doesn't have to be hard.
     buttontext: Get started
-    buttonlink: "#"
+    buttonlink: https://gizmoplatform.dev
     image: illustrations/rover.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
