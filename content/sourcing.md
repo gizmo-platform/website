@@ -18,10 +18,9 @@ that allows you to manufacture your own boards (even commercially)
 with recognition that the board was designed by the authors listed on
 the license.
 
-If you really, _really_, want a Gizmo now, and are willing to put in some
-work to get it, you can go directly to our manufacturing partner
-PCBWay and place an order.  Some things to keep in mind while doing
-this:
+We fabricate our boards at PCBWay, and you can place orders directly
+from our supplier at the same cost we pay.  There are a few
+limitations with doing this, so keep the following in mind:
 
   * You'll need to place a minimum order of 5 boards.
   * Make sure that you specify you want boards *AND* assembly when
@@ -32,13 +31,24 @@ this:
     * You want resin-filled vias.
     * V-Cut panelization is preferred.
     * You will accept X-Out boards.
+  * Once your order ships to the US, you'll need to work with your
+    shipping company (usually FedEx or DHL) to pay the import duty,
+    which is usually around 15% of the total order cost.
 
 If this doesn't deter you, you can use [this
 link](https://www.pcbway.com/project/shareproject/Gizmo_Platform_Carrier_Board_v1_0_28f40401.html)
 to go to PCBWay and put an order in.  Lead time is about a month once
-your order is paid for.  If this process is more than you want to deal
-with, we highly encourage you to wait until Spring of 2025 when we
-expect to have an optimized sourcing process.
+your order is paid for.
+
+If you would prefer to order from a US supplier, or don't want to
+order more than one board, our friends at [Syrinx
+Systems](https://syrinx.systems/) manage periodic orders.  You can buy
+these directly from [the shop](https://shop.gizmoplatform.org/).  In
+general, we price our offering based on what you'd wind up paying if
+you did an order to PCBWay directly for the minimum quantity but only
+wanted one board.  If you are part of an organization that's arranged
+special pricing with us, its extremely important that you use your
+organization email when ordering so we can identify your orders!
 
 ## The Driver's Station
 
@@ -73,7 +83,9 @@ components and a computer that runs the entire competition system.
 Our FMS is designed to run competitions with 4 robots per field
 identified by unique colors.  We currently specify the following
 components, and you can use these non-affiliate links to find exactly
-the same hardware our team uses to test.
+the same hardware our team uses to test.  If you need to run large
+events, require special hardware support, or need advice about
+hardware, please reach out to us.
 
   * [Scoring Box](https://www.amazon.com/dp/B07HHF2C48) - You need one
     of these per competition environment that you want to run.  It
@@ -81,19 +93,20 @@ the same hardware our team uses to test.
     fields.  If you need more than this, reach out to us and we can
     work with you to make giant-scale events a reality.
 
-  * [Field Box](https://www.amazon.com/dp/B019PCF3QY) - As the name
+  * [Field Box](https://www.amazon.com/dp/B08MLB51ZS) - As the name
     implies, you need one of these per field.  This contains the
     managed radio that talks to each robot and one port per quadrant.
 
   * [FMS
-    Workstation](https://www.pishop.us/product/raspberry-pi-400/) -
+    Workstation](https://www.pishop.us/product/raspberry-pi-500/) -
     This is the dedicated computer that runs our software to control
     the entire system.  You'll need one of these plus at least one
     HDMI capable computer monitor to plug it into.  We specify and
-    support the Raspberry Pi 400, but you should also be able to use a
-    Raspberry Pi 4 or 5 for this function.  If you require support for
-    your events, we ask that you stay within our specified hardware
-    lists, which at this time only include the Raspberry Pi 400.
+    support the Raspberry Pi 400 and 500, but you should also be able
+    to use a Raspberry Pi 4 or 5 for this function.  If you require
+    support for your events, we ask that you stay within our specified
+    hardware lists, which at this time only include the Raspberry Pi
+    400 and 500.
 
 If you're looking to reduce the cost of the Field Management System,
 its possible to use the non-PoE version of the Scoring table box, but
