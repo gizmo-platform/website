@@ -98,7 +98,7 @@ hardware, please reach out to us.
     managed radio that talks to each robot and one port per quadrant.
 
   * [FMS
-    Workstation](https://www.pishop.us/product/raspberry-pi-500/) -
+    Workstation](https://www.pishop.us/product/raspberry-pi-5-desktop-kit-us/) -
     This is the dedicated computer that runs our software to control
     the entire system.  You'll need one of these plus at least one
     HDMI capable computer monitor to plug it into.  We specify and
