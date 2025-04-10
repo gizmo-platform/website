@@ -9,9 +9,7 @@ cool stuff.  You can use the Gizmo to build a robot, create an
 interactive art project, or as part of a larger project.
 
 Our platform is designed to be a turn-key system for competition
-robotics, and we're proud to be working with [BEST
-Robotics](https://bestrobotics.org) to deliver the Gizmo for limited
-Pilot as part of the 2024 game year.
+robotics.
 
 The Gizmo started as an idea of what was the minimum amount of stuff
 you could add to the popular Raspberry Pi Pico microcontroller to make
