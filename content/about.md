@@ -20,6 +20,10 @@ complicated to use.  The Gizmo is heavily inspired by the amazing work
 done by [Parallax Inc](https://www.parallax.com) and their BoE
 concept.
 
+For all questions not addressed here or in our documentation, please
+reach out to contact@gizmoplatform.org and a member of our team will
+be in touch with you.
+
 ---
 
 The Gizmo Team would like to thank GitHub user
